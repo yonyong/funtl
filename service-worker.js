@@ -7244,611 +7244,611 @@ self.__precacheManifest = [
     "revision": "6c95c0bd5075708de0d89d18238b9f9f"
   },
   {
-    "url": "zh/interview/Java-面试宝典-23-种设计模式的设计理念.html",
+    "url": "zh/interview/Java-葵花宝典-23-种设计模式的设计理念.html",
     "revision": "173a6da24a9a4908c8f37d3da6fc0fe4"
   },
   {
-    "url": "zh/interview/Java-面试宝典-ABA-问题.html",
+    "url": "zh/interview/Java-葵花宝典-ABA-问题.html",
     "revision": "98a67ddfe877d3be09cb5f4ee45f0929"
   },
   {
-    "url": "zh/interview/Java-面试宝典-Arraylist-与-LinkedList-区别.html",
+    "url": "zh/interview/Java-葵花宝典-Arraylist-与-LinkedList-区别.html",
     "revision": "068da1e4fab57fe54f0804aaa1410626"
   },
   {
-    "url": "zh/interview/Java-面试宝典-ArrayList-与-Vector-区别.html",
+    "url": "zh/interview/Java-葵花宝典-ArrayList-与-Vector-区别.html",
     "revision": "446263b4d75cc79550b2bfe58b3ecab1"
   },
   {
-    "url": "zh/interview/Java-面试宝典-BeanFactory-和-ApplicationContext-有什么区别.html",
+    "url": "zh/interview/Java-葵花宝典-BeanFactory-和-ApplicationContext-有什么区别.html",
     "revision": "1fcdad66558932e68a85daf423532379"
   },
   {
-    "url": "zh/interview/Java-面试宝典-CAS-乐观锁.html",
+    "url": "zh/interview/Java-葵花宝典-CAS-乐观锁.html",
     "revision": "d95bb29adf62589b185dc917bad50432"
   },
   {
-    "url": "zh/interview/Java-面试宝典-ConcurrentHashMap-的工作原理及代码实现.html",
+    "url": "zh/interview/Java-葵花宝典-ConcurrentHashMap-的工作原理及代码实现.html",
     "revision": "79f5db137991671a4cc4d51e190c36d0"
   },
   {
-    "url": "zh/interview/Java-面试宝典-equals-与-的区别.html",
+    "url": "zh/interview/Java-葵花宝典-equals-与-的区别.html",
     "revision": "0f040b2e5ccfc8f76adadf6cc24d6f92"
   },
   {
-    "url": "zh/interview/Java-面试宝典-final-finally-finalize-的区别.html",
+    "url": "zh/interview/Java-葵花宝典-final-finally-finalize-的区别.html",
     "revision": "3cc25b895f433c3d2098ec695ff19db9"
   },
   {
-    "url": "zh/interview/Java-面试宝典-HashMap-和-ConcurrentHashMap-的区别.html",
+    "url": "zh/interview/Java-葵花宝典-HashMap-和-ConcurrentHashMap-的区别.html",
     "revision": "98667d0d0857d471c18682431a139ee7"
   },
   {
-    "url": "zh/interview/Java-面试宝典-HashMap-和-HashTable-的区别.html",
+    "url": "zh/interview/Java-葵花宝典-HashMap-和-HashTable-的区别.html",
     "revision": "ceca2dd1be35367b9ef25617f67914c0"
   },
   {
-    "url": "zh/interview/Java-面试宝典-HashMap-的工作原理及代码实现.html",
+    "url": "zh/interview/Java-葵花宝典-HashMap-的工作原理及代码实现.html",
     "revision": "15df71de3319a10eadec96e3a9f34dcc"
   },
   {
-    "url": "zh/interview/Java-面试宝典-HashSet-和-HashMap-区别.html",
+    "url": "zh/interview/Java-葵花宝典-HashSet-和-HashMap-区别.html",
     "revision": "e5bacee3ef143e798580edc0f3ccb1cc"
   },
   {
-    "url": "zh/interview/Java-面试宝典-HTTP-请求的-GET-与-POST-方式的区别.html",
+    "url": "zh/interview/Java-葵花宝典-HTTP-请求的-GET-与-POST-方式的区别.html",
     "revision": "3edaedea1b811eb769c822c0979d4492"
   },
   {
-    "url": "zh/interview/Java-面试宝典-HTTPS-原理剖析.html",
+    "url": "zh/interview/Java-葵花宝典-HTTPS-原理剖析.html",
     "revision": "3812407bb26982d636d4d4131d29773f"
   },
   {
-    "url": "zh/interview/Java-面试宝典-HTTPS-降级攻击.html",
+    "url": "zh/interview/Java-葵花宝典-HTTPS-降级攻击.html",
     "revision": "4a011d5ab9b1be5ffc072305a39948f4"
   },
   {
-    "url": "zh/interview/Java-面试宝典-int-和-Integer-有什么区别.html",
+    "url": "zh/interview/Java-葵花宝典-int-和-Integer-有什么区别.html",
     "revision": "500c94131020dbab34886d9a93b01644"
   },
   {
-    "url": "zh/interview/Java-面试宝典-JDBC-流程.html",
+    "url": "zh/interview/Java-葵花宝典-JDBC-流程.html",
     "revision": "199413ad0dfe72aa7cb6b31778a5fc7f"
   },
   {
-    "url": "zh/interview/Java-面试宝典-limit-20000-加载很慢怎么解决.html",
+    "url": "zh/interview/Java-葵花宝典-limit-20000-加载很慢怎么解决.html",
     "revision": "a7ee291d30a9c762ca4881ec427d8499"
   },
   {
-    "url": "zh/interview/Java-面试宝典-List-和-Map-区别.html",
+    "url": "zh/interview/Java-葵花宝典-List-和-Map-区别.html",
     "revision": "c5c63952823c7154ab3eb52b7df303b7"
   },
   {
-    "url": "zh/interview/Java-面试宝典-List-和-Set-区别.html",
+    "url": "zh/interview/Java-葵花宝典-List-和-Set-区别.html",
     "revision": "a2149c9c499dbe0444ad8407ef9720c7"
   },
   {
-    "url": "zh/interview/Java-面试宝典-MVC-设计思想.html",
+    "url": "zh/interview/Java-葵花宝典-MVC-设计思想.html",
     "revision": "c27ae72af21eeccc225ae933c9b3c3a8"
   },
   {
-    "url": "zh/interview/Java-面试宝典-MySQL-优化.html",
+    "url": "zh/interview/Java-葵花宝典-MySQL-优化.html",
     "revision": "8d8c807ecbed70c00575ec7624886a08"
   },
   {
-    "url": "zh/interview/Java-面试宝典-MySQL-索引使用的注意事项.html",
+    "url": "zh/interview/Java-葵花宝典-MySQL-索引使用的注意事项.html",
     "revision": "f75e437445a4566e7b9d3366d292d2af"
   },
   {
-    "url": "zh/interview/Java-面试宝典-MySQL-遇到的死锁问题.html",
+    "url": "zh/interview/Java-葵花宝典-MySQL-遇到的死锁问题.html",
     "revision": "5588a0d5ecd46fcdfd9ecba2b4200842"
   },
   {
-    "url": "zh/interview/Java-面试宝典-Netty-内部执行流程.html",
+    "url": "zh/interview/Java-葵花宝典-Netty-内部执行流程.html",
     "revision": "cf1bd37651345290455547c17660bd1c"
   },
   {
-    "url": "zh/interview/Java-面试宝典-Netty-线程模型.html",
+    "url": "zh/interview/Java-葵花宝典-Netty-线程模型.html",
     "revision": "d0d7818bb92f6651d7b1cb309fd35d63"
   },
   {
-    "url": "zh/interview/Java-面试宝典-Netty-重连实现.html",
+    "url": "zh/interview/Java-葵花宝典-Netty-重连实现.html",
     "revision": "dd1cce8968c03e22c32103e20493be86"
   },
   {
-    "url": "zh/interview/Java-面试宝典-ObjectId-规则.html",
+    "url": "zh/interview/Java-葵花宝典-ObjectId-规则.html",
     "revision": "acf30d06ba19ecd26c23497870584278"
   },
   {
-    "url": "zh/interview/Java-面试宝典-Redis-为什么是单线程的.html",
+    "url": "zh/interview/Java-葵花宝典-Redis-为什么是单线程的.html",
     "revision": "dc67038edf182ef46cd116830d349160"
   },
   {
-    "url": "zh/interview/Java-面试宝典-Redis-内存淘汰机制.html",
+    "url": "zh/interview/Java-葵花宝典-Redis-内存淘汰机制.html",
     "revision": "b9bf05028d088ab40ede1ff4f9b2eb8a"
   },
   {
-    "url": "zh/interview/Java-面试宝典-Redis-内部结构.html",
+    "url": "zh/interview/Java-葵花宝典-Redis-内部结构.html",
     "revision": "0517642e7f9f19964727f529751bcced"
   },
   {
-    "url": "zh/interview/Java-面试宝典-Redis-持久化机制.html",
+    "url": "zh/interview/Java-葵花宝典-Redis-持久化机制.html",
     "revision": "675d755a63d924aebefadb9020d17985"
   },
   {
-    "url": "zh/interview/Java-面试宝典-Redis-有哪些类型.html",
+    "url": "zh/interview/Java-葵花宝典-Redis-有哪些类型.html",
     "revision": "800df6be5586ecfa8de9d14c4c234ba2"
   },
   {
-    "url": "zh/interview/Java-面试宝典-Redis-集群方案与实现.html",
+    "url": "zh/interview/Java-葵花宝典-Redis-集群方案与实现.html",
     "revision": "c6b1bd5148f74e80a130b7f471b2d492"
   },
   {
-    "url": "zh/interview/Java-面试宝典-session-与-cookie-区别.html",
+    "url": "zh/interview/Java-葵花宝典-session-与-cookie-区别.html",
     "revision": "12d04b5ddc4df5c21998ac3601a56a4e"
   },
   {
-    "url": "zh/interview/Java-面试宝典-session-分布式处理.html",
+    "url": "zh/interview/Java-葵花宝典-session-分布式处理.html",
     "revision": "70c4dcbb70cb67a91ec1f2286fda3f30"
   },
   {
-    "url": "zh/interview/Java-面试宝典-Session-分布式方案.html",
+    "url": "zh/interview/Java-葵花宝典-Session-分布式方案.html",
     "revision": "9d6f5ef1fbc872e483d8a1ad1c8836c6"
   },
   {
-    "url": "zh/interview/Java-面试宝典-sleep-、join（）、yield（）有什么区别.html",
+    "url": "zh/interview/Java-葵花宝典-sleep-、join（）、yield（）有什么区别.html",
     "revision": "7f0c588d4f3548e9af9c1e05c88123e4"
   },
   {
-    "url": "zh/interview/Java-面试宝典-Spring-AOP-实现原理.html",
+    "url": "zh/interview/Java-葵花宝典-Spring-AOP-实现原理.html",
     "revision": "b0b4578d872e7641443b15a6352bf90a"
   },
   {
-    "url": "zh/interview/Java-面试宝典-Spring-Bean-的生命周期.html",
+    "url": "zh/interview/Java-葵花宝典-Spring-Bean-的生命周期.html",
     "revision": "e86f486d1a4c5d0ac5709a761b9f7f94"
   },
   {
-    "url": "zh/interview/Java-面试宝典-Spring-IOC-如何实现.html",
+    "url": "zh/interview/Java-葵花宝典-Spring-IOC-如何实现.html",
     "revision": "7f8e2e8f8b4de6fd608eae3736fcf966"
   },
   {
-    "url": "zh/interview/Java-面试宝典-Spring-MVC-启动流程.html",
+    "url": "zh/interview/Java-葵花宝典-Spring-MVC-启动流程.html",
     "revision": "550e0d8c0ca00516411ba3a8b6109a5e"
   },
   {
-    "url": "zh/interview/Java-面试宝典-Spring-MVC-运行流程.html",
+    "url": "zh/interview/Java-葵花宝典-Spring-MVC-运行流程.html",
     "revision": "1c0ea7cbf0c9590720a614429a88b63d"
   },
   {
-    "url": "zh/interview/Java-面试宝典-Spring-事务实现方式.html",
+    "url": "zh/interview/Java-葵花宝典-Spring-事务实现方式.html",
     "revision": "7632b7ddb6535fe4fd102181430c1c88"
   },
   {
-    "url": "zh/interview/Java-面试宝典-Spring-事务底层原理.html",
+    "url": "zh/interview/Java-葵花宝典-Spring-事务底层原理.html",
     "revision": "1473ea96b5ac1acc7506676c374c5b40"
   },
   {
-    "url": "zh/interview/Java-面试宝典-Spring-框架中用到了哪些设计模式.html",
+    "url": "zh/interview/Java-葵花宝典-Spring-框架中用到了哪些设计模式.html",
     "revision": "e1a9def008e3f5c9e36b7aa4efa80ce5"
   },
   {
-    "url": "zh/interview/Java-面试宝典-Spring-的单例实现原理.html",
+    "url": "zh/interview/Java-葵花宝典-Spring-的单例实现原理.html",
     "revision": "9ed7b4cf8ef0111f0f35686d99f0b851"
   },
   {
-    "url": "zh/interview/Java-面试宝典-synchronize-实现原理.html",
+    "url": "zh/interview/Java-葵花宝典-synchronize-实现原理.html",
     "revision": "be896421fb3464f3909293e213449058"
   },
   {
-    "url": "zh/interview/Java-面试宝典-synchronized-与-lock-的区别.html",
+    "url": "zh/interview/Java-葵花宝典-synchronized-与-lock-的区别.html",
     "revision": "cdcb99aa3a3ebe0084fd58264f11a8b1"
   },
   {
-    "url": "zh/interview/Java-面试宝典-TCP-粘包-拆包的解决办法.html",
+    "url": "zh/interview/Java-葵花宝典-TCP-粘包-拆包的解决办法.html",
     "revision": "3b3095c630dda2229a06ec69462ddfd0"
   },
   {
-    "url": "zh/interview/Java-面试宝典-ThreadLocal-原理分析.html",
+    "url": "zh/interview/Java-葵花宝典-ThreadLocal-原理分析.html",
     "revision": "7d8cb3f1ed9b0d32c984725c9fa35fd9"
   },
   {
-    "url": "zh/interview/Java-面试宝典-volatile-实现原理.html",
+    "url": "zh/interview/Java-葵花宝典-volatile-实现原理.html",
     "revision": "364a59ff213db53aa68853edcc84bda2"
   },
   {
-    "url": "zh/interview/Java-面试宝典-Zookeeper-假死脑裂.html",
+    "url": "zh/interview/Java-葵花宝典-Zookeeper-假死脑裂.html",
     "revision": "c97f1028e7c289edcc3297d71029fb20"
   },
   {
-    "url": "zh/interview/Java-面试宝典-为什么要用-B-Tree.html",
+    "url": "zh/interview/Java-葵花宝典-为什么要用-B-Tree.html",
     "revision": "b7eabd465d2e1c236081c50a4837a7ee"
   },
   {
-    "url": "zh/interview/Java-面试宝典-为什么选择-Netty.html",
+    "url": "zh/interview/Java-葵花宝典-为什么选择-Netty.html",
     "revision": "903ca3e7f5d1e0c34982aec949e43204"
   },
   {
-    "url": "zh/interview/Java-面试宝典-乐观锁的业务场景及实现方式.html",
+    "url": "zh/interview/Java-葵花宝典-乐观锁的业务场景及实现方式.html",
     "revision": "5f243cd872abe2125b183dd7feb610f1"
   },
   {
-    "url": "zh/interview/Java-面试宝典-什么是-TCP-粘包-拆包.html",
+    "url": "zh/interview/Java-葵花宝典-什么是-TCP-粘包-拆包.html",
     "revision": "5bf6f187b7873eb748817ea717c89b4c"
   },
   {
-    "url": "zh/interview/Java-面试宝典-你如何划分领域边界.html",
+    "url": "zh/interview/Java-葵花宝典-你如何划分领域边界.html",
     "revision": "66a9a60f96495f683f705d39b2f8ddf8"
   },
   {
-    "url": "zh/interview/Java-面试宝典-你如何对需求原型进行理解和拆分.html",
+    "url": "zh/interview/Java-葵花宝典-你如何对需求原型进行理解和拆分.html",
     "revision": "0e03526d371d612202ef297e8657672c"
   },
   {
-    "url": "zh/interview/Java-面试宝典-你如何理解用户痛点.html",
+    "url": "zh/interview/Java-葵花宝典-你如何理解用户痛点.html",
     "revision": "39a282ec83299b87837fab1384435d69"
   },
   {
-    "url": "zh/interview/Java-面试宝典-你如何考虑服务化.html",
+    "url": "zh/interview/Java-葵花宝典-你如何考虑服务化.html",
     "revision": "d9c28912c8cfb0d76bd0eb5d50d3bb70"
   },
   {
-    "url": "zh/interview/Java-面试宝典-你如何考虑组件化.html",
+    "url": "zh/interview/Java-葵花宝典-你如何考虑组件化.html",
     "revision": "0a6d2eb6a6db58975b847ab6db956484"
   },
   {
-    "url": "zh/interview/Java-面试宝典-你如何进行领域建模.html",
+    "url": "zh/interview/Java-葵花宝典-你如何进行领域建模.html",
     "revision": "54425e213465003a224ad2c2161f8997"
   },
   {
-    "url": "zh/interview/Java-面试宝典-你怎么理解-RESTful.html",
+    "url": "zh/interview/Java-葵花宝典-你怎么理解-RESTful.html",
     "revision": "b6af1c337c49e6a6ed23e0e994b9765c"
   },
   {
-    "url": "zh/interview/Java-面试宝典-你怎么理解-RPC-框架.html",
+    "url": "zh/interview/Java-葵花宝典-你怎么理解-RPC-框架.html",
     "revision": "83328a72ba69f0ffac4e8f5b90926838"
   },
   {
-    "url": "zh/interview/Java-面试宝典-你针对产品提出哪些交互和改进意见.html",
+    "url": "zh/interview/Java-葵花宝典-你针对产品提出哪些交互和改进意见.html",
     "revision": "f2e167de06393f9fca3966da42606cdf"
   },
   {
-    "url": "zh/interview/Java-面试宝典-使用缓存的合理性问题.html",
+    "url": "zh/interview/Java-葵花宝典-使用缓存的合理性问题.html",
     "revision": "fe44e7b0a8a55ca469e3fb8de89d3929"
   },
   {
-    "url": "zh/interview/Java-面试宝典-倒排索引.html",
+    "url": "zh/interview/Java-葵花宝典-倒排索引.html",
     "revision": "d7cd3635fc0355e98b18e8d5fe1ca6de"
   },
   {
-    "url": "zh/interview/Java-面试宝典-分布式事务.html",
+    "url": "zh/interview/Java-葵花宝典-分布式事务.html",
     "revision": "0e8e459becce861125bc6ee460b008c3"
   },
   {
-    "url": "zh/interview/Java-面试宝典-分布式锁的场景.html",
+    "url": "zh/interview/Java-葵花宝典-分布式锁的场景.html",
     "revision": "85dbf57c7f5ee99d7f440f862cf5ef54"
   },
   {
-    "url": "zh/interview/Java-面试宝典-分库与分表带来的分布式困境与应对之策.html",
+    "url": "zh/interview/Java-葵花宝典-分库与分表带来的分布式困境与应对之策.html",
     "revision": "f125454625f115b8833c658703a3a04a"
   },
   {
-    "url": "zh/interview/Java-面试宝典-创建线程的方式及实现.html",
+    "url": "zh/interview/Java-葵花宝典-创建线程的方式及实现.html",
     "revision": "4d06dff59bbce95b0594191b338d32a2"
   },
   {
-    "url": "zh/interview/Java-面试宝典-前后端分离是如何做的.html",
+    "url": "zh/interview/Java-葵花宝典-前后端分离是如何做的.html",
     "revision": "fd2863095f1e847b94664f2ce1ce63db"
   },
   {
-    "url": "zh/interview/Java-面试宝典-动态代理（CGLIB-与-JDK）.html",
+    "url": "zh/interview/Java-葵花宝典-动态代理（CGLIB-与-JDK）.html",
     "revision": "8e5a6dd5ca15f280c12e3d57792c453a"
   },
   {
-    "url": "zh/interview/Java-面试宝典-原生的-NIO-在-JDK-1-7-版本存在-EPoll-BUG.html",
+    "url": "zh/interview/Java-葵花宝典-原生的-NIO-在-JDK-1-7-版本存在-EPoll-BUG.html",
     "revision": "4fb27053ae13e92f89e12e020926e456"
   },
   {
-    "url": "zh/interview/Java-面试宝典-双亲委派模型.html",
+    "url": "zh/interview/Java-葵花宝典-双亲委派模型.html",
     "revision": "65deae6c034d9051253c9f8a81d3e02d"
   },
   {
-    "url": "zh/interview/Java-面试宝典-基于角色的访问控制.html",
+    "url": "zh/interview/Java-葵花宝典-基于角色的访问控制.html",
     "revision": "9c7b5f22f42ebc9a4935454e2a6fda5a"
   },
   {
-    "url": "zh/interview/Java-面试宝典-如何保证接口的幂等性.html",
+    "url": "zh/interview/Java-葵花宝典-如何保证接口的幂等性.html",
     "revision": "0e7418ed31b06c3bae0c921bfb72df2c"
   },
   {
-    "url": "zh/interview/Java-面试宝典-如何保证消息的有序性.html",
+    "url": "zh/interview/Java-葵花宝典-如何保证消息的有序性.html",
     "revision": "091943f82a9aa3089134bfb026f913f9"
   },
   {
-    "url": "zh/interview/Java-面试宝典-如何发现性能瓶颈.html",
+    "url": "zh/interview/Java-葵花宝典-如何发现性能瓶颈.html",
     "revision": "b78d4bbac28a8508ad8672de46809f82"
   },
   {
-    "url": "zh/interview/Java-面试宝典-如何应对微服务的链式调用异常.html",
+    "url": "zh/interview/Java-葵花宝典-如何应对微服务的链式调用异常.html",
     "revision": "36ed9d19e8bd63e4ef25821b1d9d8a39"
   },
   {
-    "url": "zh/interview/Java-面试宝典-如何拆分服务.html",
+    "url": "zh/interview/Java-葵花宝典-如何拆分服务.html",
     "revision": "49a666e814f97fdf11dd1c6fe93ae87c"
   },
   {
-    "url": "zh/interview/Java-面试宝典-如何理解-RESTful-API-的幂等性.html",
+    "url": "zh/interview/Java-葵花宝典-如何理解-RESTful-API-的幂等性.html",
     "revision": "c1a89837240a2870f9dc46f8a43d5007"
   },
   {
-    "url": "zh/interview/Java-面试宝典-如何自定义注解实现功能.html",
+    "url": "zh/interview/Java-葵花宝典-如何自定义注解实现功能.html",
     "revision": "b459debcffacf04de78d87c2ea132c68"
   },
   {
-    "url": "zh/interview/Java-面试宝典-如何解决跨域.html",
+    "url": "zh/interview/Java-葵花宝典-如何解决跨域.html",
     "revision": "793a2dd65dcb04811fc6b6abb5a58874"
   },
   {
-    "url": "zh/interview/Java-面试宝典-存储引擎的-InnoDB-与-MyISAM.html",
+    "url": "zh/interview/Java-葵花宝典-存储引擎的-InnoDB-与-MyISAM.html",
     "revision": "2f0765b483273d04fe83d12b8af39529"
   },
   {
-    "url": "zh/interview/Java-面试宝典-安全要素与-STRIDE-威胁.html",
+    "url": "zh/interview/Java-葵花宝典-安全要素与-STRIDE-威胁.html",
     "revision": "cf220d26c1a1b115ef7b0d1502d4a19a"
   },
   {
-    "url": "zh/interview/Java-面试宝典-对于快速追踪与定位问题.html",
+    "url": "zh/interview/Java-葵花宝典-对于快速追踪与定位问题.html",
     "revision": "279641a28c49731376624aea4c0299b2"
   },
   {
-    "url": "zh/interview/Java-面试宝典-微服务与-SOA-的区别.html",
+    "url": "zh/interview/Java-葵花宝典-微服务与-SOA-的区别.html",
     "revision": "87e95e6444fcf5225d109335e0c3da4e"
   },
   {
-    "url": "zh/interview/Java-面试宝典-微服务哪些框架.html",
+    "url": "zh/interview/Java-葵花宝典-微服务哪些框架.html",
     "revision": "72c21381b0759d2241a954f7c9963897"
   },
   {
-    "url": "zh/interview/Java-面试宝典-微服务如何进行数据库管理.html",
+    "url": "zh/interview/Java-葵花宝典-微服务如何进行数据库管理.html",
     "revision": "7e34e1c430b365666b94251cc0f215d8"
   },
   {
-    "url": "zh/interview/Java-面试宝典-微服务的安全.html",
+    "url": "zh/interview/Java-葵花宝典-微服务的安全.html",
     "revision": "27a5229a2acd2860b23e87898b74769c"
   },
   {
-    "url": "zh/interview/Java-面试宝典-怎么考虑数据一致性问题.html",
+    "url": "zh/interview/Java-葵花宝典-怎么考虑数据一致性问题.html",
     "revision": "04fb1882836f71e1d223e9067beb583a"
   },
   {
-    "url": "zh/interview/Java-面试宝典-性能指标有哪些.html",
+    "url": "zh/interview/Java-葵花宝典-性能指标有哪些.html",
     "revision": "8d7b4781e7d4df17a8e812048ebaf91f"
   },
   {
-    "url": "zh/interview/Java-面试宝典-性能调优的常见手段.html",
+    "url": "zh/interview/Java-葵花宝典-性能调优的常见手段.html",
     "revision": "f0ff5bf5bf90c85c8dbe7dc78b7687f0"
   },
   {
-    "url": "zh/interview/Java-面试宝典-抽象类和接口有什么区别.html",
+    "url": "zh/interview/Java-葵花宝典-抽象类和接口有什么区别.html",
     "revision": "f170b48d3365c77d71268affa53d0cff"
   },
   {
-    "url": "zh/interview/Java-面试宝典-授权与认证.html",
+    "url": "zh/interview/Java-葵花宝典-授权与认证.html",
     "revision": "6412a9fa114af0de9400a683a9544679"
   },
   {
-    "url": "zh/interview/Java-面试宝典-数据库索引的原理.html",
+    "url": "zh/interview/Java-葵花宝典-数据库索引的原理.html",
     "revision": "f51e105a5fd9db51b27578420469e1b7"
   },
   {
-    "url": "zh/interview/Java-面试宝典-新特性-JDK8.html",
+    "url": "zh/interview/Java-葵花宝典-新特性-JDK8.html",
     "revision": "2483840f0cc3a0995d71fdafd1e7ce27"
   },
   {
-    "url": "zh/interview/Java-面试宝典-服务端通信安全攻防.html",
+    "url": "zh/interview/Java-葵花宝典-服务端通信安全攻防.html",
     "revision": "2d8b78f566d981c775972be4ce0cf592"
   },
   {
-    "url": "zh/interview/Java-面试宝典-死信、延迟、重试队列.html",
+    "url": "zh/interview/Java-葵花宝典-死信、延迟、重试队列.html",
     "revision": "9eadd6dfd28863f8c2f2d4e444ec3151"
   },
   {
-    "url": "zh/interview/Java-面试宝典-消息的堆积解决思路.html",
+    "url": "zh/interview/Java-葵花宝典-消息的堆积解决思路.html",
     "revision": "966b008e4375b44727880b03868ad596"
   },
   {
-    "url": "zh/interview/Java-面试宝典-消息的幂等性解决思路.html",
+    "url": "zh/interview/Java-葵花宝典-消息的幂等性解决思路.html",
     "revision": "b0a2a5dc972d13ada2daf59ce290ca7f"
   },
   {
-    "url": "zh/interview/Java-面试宝典-消息的重发补偿解决思路.html",
+    "url": "zh/interview/Java-葵花宝典-消息的重发补偿解决思路.html",
     "revision": "895c60fb6397033f802ba66e9237eca3"
   },
   {
-    "url": "zh/interview/Java-面试宝典-消息队列的使用场景.html",
+    "url": "zh/interview/Java-葵花宝典-消息队列的使用场景.html",
     "revision": "baca239c049524f4e8cb24c24df03da7"
   },
   {
-    "url": "zh/interview/Java-面试宝典-线程池的几种方式与使用场景.html",
+    "url": "zh/interview/Java-葵花宝典-线程池的几种方式与使用场景.html",
     "revision": "da4237f703ae5e7a95df4d966817f6fa"
   },
   {
-    "url": "zh/interview/Java-面试宝典-线程的生命周期.html",
+    "url": "zh/interview/Java-葵花宝典-线程的生命周期.html",
     "revision": "efcbac3d717dca011eb2242cf86f813c"
   },
   {
-    "url": "zh/interview/Java-面试宝典-缓存崩溃.html",
+    "url": "zh/interview/Java-葵花宝典-缓存崩溃.html",
     "revision": "1666ef377576cf99c84c5f1ae5bd5f51"
   },
   {
-    "url": "zh/interview/Java-面试宝典-缓存降级.html",
+    "url": "zh/interview/Java-葵花宝典-缓存降级.html",
     "revision": "7b452c32f7026ca18f5e90f64a7a95ce"
   },
   {
-    "url": "zh/interview/Java-面试宝典-聊聊-ElasticSearch-使用场景.html",
+    "url": "zh/interview/Java-葵花宝典-聊聊-ElasticSearch-使用场景.html",
     "revision": "2fe3a19d47a7bc1bd12c12905edf495f"
   },
   {
-    "url": "zh/interview/Java-面试宝典-聊聊-MongoDB-使用场景.html",
+    "url": "zh/interview/Java-葵花宝典-聊聊-MongoDB-使用场景.html",
     "revision": "2eb8a2e3628e52ef4bb898fc128304e9"
   },
   {
-    "url": "zh/interview/Java-面试宝典-聊聊-Redis-使用场景.html",
+    "url": "zh/interview/Java-葵花宝典-聊聊-Redis-使用场景.html",
     "revision": "1dbd852f4d44968bc4e62939d1a4ff31"
   },
   {
-    "url": "zh/interview/Java-面试宝典-聚集索引与非聚集索引的区别.html",
+    "url": "zh/interview/Java-葵花宝典-聚集索引与非聚集索引的区别.html",
     "revision": "12bbb54fccadd2ff603c6e5e837def71"
   },
   {
-    "url": "zh/interview/Java-面试宝典-自己如何实现消息队列.html",
+    "url": "zh/interview/Java-葵花宝典-自己如何实现消息队列.html",
     "revision": "71cb85b88197ad98e2913a71105aef6d"
   },
   {
-    "url": "zh/interview/Java-面试宝典-补充.html",
+    "url": "zh/interview/Java-葵花宝典-补充.html",
     "revision": "5fb3475ed0c88b324b0ae6ad230c0212"
   },
   {
-    "url": "zh/interview/Java-面试宝典-讲讲线程池的实现原理.html",
+    "url": "zh/interview/Java-葵花宝典-讲讲线程池的实现原理.html",
     "revision": "5ba627100cb8c98ee77ae250519cbf44"
   },
   {
-    "url": "zh/interview/Java-面试宝典-设计模式之间的异同，例如策略模式与状态模式的区别.html",
+    "url": "zh/interview/Java-葵花宝典-设计模式之间的异同，例如策略模式与状态模式的区别.html",
     "revision": "47c5f38b0b2efa356b779923caa3a675"
   },
   {
-    "url": "zh/interview/Java-面试宝典-设计模式之间的结合，例如策略模式-简单工厂模式的实践.html",
+    "url": "zh/interview/Java-葵花宝典-设计模式之间的结合，例如策略模式-简单工厂模式的实践.html",
     "revision": "f21ec7593a40a91e9e4b0ce02c14c8c8"
   },
   {
-    "url": "zh/interview/Java-面试宝典-设计模式的性能，例如单例模式哪种性能更好.html",
+    "url": "zh/interview/Java-葵花宝典-设计模式的性能，例如单例模式哪种性能更好.html",
     "revision": "64027ef22092f9d72c1d5a9212768e5f"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说-CAP-定理、-BASE-理论.html",
+    "url": "zh/interview/Java-葵花宝典-说说-CAP-定理、-BASE-理论.html",
     "revision": "53af69755dd46553cf58cb8e7cba9aed"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说-CountDownLatch-与-CyclicBarrier-区别.html",
+    "url": "zh/interview/Java-葵花宝典-说说-CountDownLatch-与-CyclicBarrier-区别.html",
     "revision": "ec6c1d15d255cda9939ac570f6e214e9"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说-CountDownLatch-原理.html",
+    "url": "zh/interview/Java-葵花宝典-说说-CountDownLatch-原理.html",
     "revision": "09b1d6f44eafac144e88c257dd87ed8b"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说-CyclicBarrier-原理.html",
+    "url": "zh/interview/Java-葵花宝典-说说-CyclicBarrier-原理.html",
     "revision": "0a0a04e6815b6e8c46f0b1e594bc206d"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说-Dubbo-的实现原理.html",
+    "url": "zh/interview/Java-葵花宝典-说说-Dubbo-的实现原理.html",
     "revision": "878d87151eb8143b50247d0fc4cfe671"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说-Exchanger-原理.html",
+    "url": "zh/interview/Java-葵花宝典-说说-Exchanger-原理.html",
     "revision": "725f0fafaa723ca5bc5f9aeee25091ba"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说-Netty-的零拷贝.html",
+    "url": "zh/interview/Java-葵花宝典-说说-Netty-的零拷贝.html",
     "revision": "bb1da2f208ff4dc53ed41cd2ff860d76"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说-RPC-的实现原理.html",
+    "url": "zh/interview/Java-葵花宝典-说说-RPC-的实现原理.html",
     "revision": "f51aeba1e054fc3912245bd006458525"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说-Semaphore-原理.html",
+    "url": "zh/interview/Java-葵花宝典-说说-Semaphore-原理.html",
     "revision": "61d0029f594a83d84d3265034a19a808"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说-Spring-AOP.html",
+    "url": "zh/interview/Java-葵花宝典-说说-Spring-AOP.html",
     "revision": "9b10f0893a4dddc357166efc24b547dc"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说-SQL-优化之道.html",
+    "url": "zh/interview/Java-葵花宝典-说说-SQL-优化之道.html",
     "revision": "e08abf3feed0799240a3b4c8511ff123"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说业务中-Netty-的使用场景.html",
+    "url": "zh/interview/Java-葵花宝典-说说业务中-Netty-的使用场景.html",
     "revision": "7ceb83ae660ca8254291b645b1183cbc"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说你在项目中使用过的-UML-图.html",
+    "url": "zh/interview/Java-葵花宝典-说说你在项目中使用过的-UML-图.html",
     "revision": "8533256519406382c4a30bce5dde499f"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说你对功能性需求的理解.html",
+    "url": "zh/interview/Java-葵花宝典-说说你对功能性需求的理解.html",
     "revision": "a37a3283c4986530c27ed148757c2371"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说你对设计原则的理解.html",
+    "url": "zh/interview/Java-葵花宝典-说说你对设计原则的理解.html",
     "revision": "7aea111c333b2fe50a37935ae5b76235"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说你对非功能性需求的理解.html",
+    "url": "zh/interview/Java-葵花宝典-说说你对非功能性需求的理解.html",
     "revision": "3f56b7d36aa7e2e3fdebfda28e4e8da4"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说最终一致性的实现方案.html",
+    "url": "zh/interview/Java-葵花宝典-说说最终一致性的实现方案.html",
     "revision": "80c18b6f036b11f78f7be819aca6bbe2"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说分库与分表设计.html",
+    "url": "zh/interview/Java-葵花宝典-说说分库与分表设计.html",
     "revision": "bd7cd1227ec4a5dfd213faedaef89d1d"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说反射的用途及实现.html",
+    "url": "zh/interview/Java-葵花宝典-说说反射的用途及实现.html",
     "revision": "19fcc586e1528a0d78b2acbc7e85a389"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说反模式设计.html",
+    "url": "zh/interview/Java-葵花宝典-说说反模式设计.html",
     "revision": "d7c9a5bd4f64cac4ab200390725fe487"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说如何设计一个良好的-API.html",
+    "url": "zh/interview/Java-葵花宝典-说说如何设计一个良好的-API.html",
     "revision": "5de14b1c63d18a1b80b4fb6577b54404"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说常用开源框架中设计模式使用分析.html",
+    "url": "zh/interview/Java-葵花宝典-说说常用开源框架中设计模式使用分析.html",
     "revision": "c3053955fa22a1b97cece8fd52537270"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说概要设计.html",
+    "url": "zh/interview/Java-葵花宝典-说说概要设计.html",
     "revision": "dc2489ee1554c224d74e48648fed9d78"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说线程安全问题.html",
+    "url": "zh/interview/Java-葵花宝典-说说线程安全问题.html",
     "revision": "90c2f8493495af7e33f6e093f4cbe0d2"
   },
   {
-    "url": "zh/interview/Java-面试宝典-说说自定义注解的场景及实现.html",
+    "url": "zh/interview/Java-葵花宝典-说说自定义注解的场景及实现.html",
     "revision": "a8034535853b8b18408398b954d5c9fc"
   },
   {
-    "url": "zh/interview/Java-面试宝典-谈谈业务中使用分布式的场景.html",
+    "url": "zh/interview/Java-葵花宝典-谈谈业务中使用分布式的场景.html",
     "revision": "2f2c9af7424a3bfd55b0940d25a66345"
   },
   {
-    "url": "zh/interview/Java-面试宝典-选择合适的分布式主键方案.html",
+    "url": "zh/interview/Java-葵花宝典-选择合适的分布式主键方案.html",
     "revision": "e66e3840302cff5d35d76ab68f63d83c"
   },
   {
-    "url": "zh/interview/Java-面试宝典-选择合适的数据存储方案.html",
+    "url": "zh/interview/Java-葵花宝典-选择合适的数据存储方案.html",
     "revision": "f8f341459f2e0f3ac5fcbf9eb511c112"
   },
   {
-    "url": "zh/interview/Java-面试宝典-重载和重写的区别.html",
+    "url": "zh/interview/Java-葵花宝典-重载和重写的区别.html",
     "revision": "b465dbc03c16ede5cbd167a538650b3c"
   },
   {
-    "url": "zh/interview/Java-面试宝典-防范常见的-Web-攻击.html",
+    "url": "zh/interview/Java-葵花宝典-防范常见的-Web-攻击.html",
     "revision": "9f405a75e0cc55bd869dd55b49bccaba"
   },
   {
-    "url": "zh/interview/Java-面试宝典-集群与负载均衡的算法与实现.html",
+    "url": "zh/interview/Java-葵花宝典-集群与负载均衡的算法与实现.html",
     "revision": "ddb5050d6c183ec505b8746595aa9b6d"
   },
   {
-    "url": "zh/interview/Java-面试宝典-面向对象的特征.html",
+    "url": "zh/interview/Java-葵花宝典-面向对象的特征.html",
     "revision": "d1f84628d830632506c3d61c2ea62777"
   },
   {
